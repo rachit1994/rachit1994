@@ -12,7 +12,7 @@ const Rachit_Srivastava = {
 }
 ```
 
-- 🔭 I’m currently working with https://www.waahjobs.com/
+- 🔭 I’m currently working with https://www.delta.exchange/
 - 🌱 I’m currently learning Golang
 - 📫 Check my professional history here: www.linkedin.com/in/rachit-srivastava-7870b687
 - ⚡ Fun fact: Learning new things every day !
